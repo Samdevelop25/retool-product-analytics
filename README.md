@@ -1,4 +1,4 @@
-# 📊 Retool Product Analytics Platform
+# Retool Product Analytics Platform
 
 ## Overview
 
@@ -67,4 +67,4 @@ notebooks/
 
 ## Status
 
-🚧 Work in Progress
+Work in Progress
